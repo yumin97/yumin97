@@ -1,3 +1,4 @@
+package BAEKJOON;
 public class Main_BJ_2357_최솟값과최댓값 {
 
 

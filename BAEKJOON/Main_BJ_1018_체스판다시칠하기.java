@@ -1,3 +1,4 @@
+package BAEKJOON;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -37,7 +38,7 @@ public class Main_BJ_1018_체스판다시칠하기 {
 
     public static void find(int r,int c){
         int sum = 0;
-        char start = map[r][c];
+        // char start = map[r][c];
         char even_start = ' ';
         char odd_start = ' ';
 //        if(start == 'W') {

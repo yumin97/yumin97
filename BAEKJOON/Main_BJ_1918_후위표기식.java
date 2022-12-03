@@ -1,3 +1,4 @@
+package BAEKJOON;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -10,9 +11,9 @@ public class Main_BJ_1918_후위표기식 {
         String input = br.readLine();
         StringBuilder sb = new StringBuilder();
 
-        Stack<Character> Alphabet = new Stack<>();
+        // Stack<Character> Alphabet = new Stack<>();
         Stack<Character> symbol = new Stack<>();
-        boolean flag = false;
+        // boolean flag = false;
         for(int i = 0; i < input.length(); i++){
             char c = input.charAt(i);
 

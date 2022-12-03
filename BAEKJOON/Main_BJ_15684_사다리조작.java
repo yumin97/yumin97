@@ -1,3 +1,4 @@
+package BAEKJOON;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -55,11 +56,11 @@ public class Main_BJ_15684_사다리조작 {
             return;
         }
 
-        for (int i = 0; i < ; i++) {
-            for (int j = 0; j < ; j++) {
+        // for (int i = 0; i < ; i++) {
+        //     for (int j = 0; j < ; j++) {
 
-            }
-        }
+        //     }
+        // }
 
     }
 
